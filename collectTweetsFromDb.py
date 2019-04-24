@@ -2,7 +2,7 @@
 import MySQLdb
 
 # Opens database connection
-db = MySQLdb.connect("localhost","root","deb0123","tweets", charset='utf8' )
+db = MySQLdb.connect("localhost","root","password","tweets", charset='utf8' )
 
 cursor = db.cursor()
 cursor.execute("SET session group_concat_max_len=240000")
