@@ -1,7 +1,4 @@
-README - Network Science Project 2 - Group 83
-
 DESCRIPTION OF THE DELIVERED FILES:
-
 Project report:
  - project2report_g83
 
